@@ -3,7 +3,7 @@
 ![sostenibilidad](img/sostenibilidad.jpg)
 
 ## Índice
-1.1. [Introducción](introduccion.md)
+1.1. [Introducción](intruduccion.md)
 1.2. Sostenibilidad y desarrollo sostenible
 1.3. ¿Qué significa la sigla ASG?
 1.4. La Agenda 2030 y los ODS
